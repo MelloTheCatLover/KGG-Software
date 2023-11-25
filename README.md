@@ -1,3 +1,5 @@
+# KGG
+
 Application for interaction of a large number of players with the mechanics of the game in real life - KGG
 
 Creating a web application to interact with players with the interface of a game I created. 
